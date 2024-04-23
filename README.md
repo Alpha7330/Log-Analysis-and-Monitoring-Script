@@ -9,7 +9,7 @@ Log Analysis: Performs basic analysis on log entries, such as counting occurrenc
 Summary Reports: Generates summary reports, such as top error messages.
 
 # Prerequisites:
-Bash shell or Python environment
+Bash shell 
 Access to the log file to be monitored
 # Installation
 1.Clone the repository:
