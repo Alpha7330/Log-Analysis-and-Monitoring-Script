@@ -25,7 +25,8 @@ To Run the script:
 
 
 
- ![image](https://github.com/Alpha7330/Log-Analysis-and-Monitoring-Script/assets/91137815/ee60baf2-36e0-491d-aeff-a41b0d4de20c)
+![image](https://github.com/Alpha7330/Log-Analysis-and-Monitoring-Script/assets/91137815/d6ae96aa-f275-477e-acb0-acc20ce1ec12)
+
 
    
 
