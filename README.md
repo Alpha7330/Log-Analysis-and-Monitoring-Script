@@ -19,8 +19,7 @@ Access to the log file to be monitored
    cd log-analyzer
 
 # Running the Script
-1.Modify the script (log-monitor.sh or log-monitor.py) to specify the path to the log file you want to monitor.
-2.Run the script:
+To Run the script:
  For Bash script:   
 
 
