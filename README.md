@@ -8,7 +8,6 @@ Log File Monitoring: Continuously monitors a specified log file for new entries 
 Log Analysis: Performs basic analysis on log entries, such as counting occurrences of specific keywords or patterns.
 Summary Reports: Generates summary reports, such as top error messages.
 
-# Usage 
 # Prerequisites:
 Bash shell or Python environment
 Access to the log file to be monitored
