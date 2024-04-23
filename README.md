@@ -13,7 +13,7 @@ Bash shell or Python environment
 Access to the log file to be monitored
 # Installation
 1.Clone the repository:
-   git clone https://github.com/yourusername/log-analyzer.git
+   git clone https://github.com/Alpha7330/Log-Analysis-and-Monitoring-Script.git
 2.Navigate to the project directory:
    cd log-analyzer
 
