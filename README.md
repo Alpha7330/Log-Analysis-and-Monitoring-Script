@@ -1,5 +1,12 @@
 
-![image](https://github.com/Alpha7330/Log-Analysis-and-Monitoring-Script/assets/91137815/f660b63e-9602-4e29-9223-584f4c3d76c3)
+
+#Log Analyzer Script
+This script is designed to automate the analysis and monitoring of log files. It provides functionalities to monitor log files in real-time, perform basic log analysis, and generate summary reports.
+
+#Features
+Log File Monitoring: Continuously monitors a specified log file for new entries using the tail command.
+Log Analysis: Performs basic analysis on log entries, such as counting occurrences of specific keywords or patterns.
+Summary Reports: Generates summary reports, such as top error messages.
 
 
 
